@@ -16,4 +16,4 @@ CodeIt-Search Engine is a high-performance search engine built using the MERN (M
 - **Tools:** Git, GitHub
 
 
-## Live Link- http://3.107.155.25:3000/](https://code-it-search-engine-lkp4.onrender.com
+## Live Link- https://code-it-search-engine-lkp4.onrender.com
